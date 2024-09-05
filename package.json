@@ -1,0 +1,12 @@
+{
+  "name": "backend-journey",
+  "version": "1.0.0",
+  "description": "Backend Journey with Youtube",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rajid Ansari",
+  "license": "ISC"
+}
